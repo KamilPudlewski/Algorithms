@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KMP Algorithm", "KMP Algorithm\KMP Algorithm.csproj", "{2760BFE2-99C8-469C-B95F-C7593D583680}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2760BFE2-99C8-469C-B95F-C7593D583680}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2760BFE2-99C8-469C-B95F-C7593D583680}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2760BFE2-99C8-469C-B95F-C7593D583680}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2760BFE2-99C8-469C-B95F-C7593D583680}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4CC0A6AC-3976-4073-BC28-066A7B7125E3}
+	EndGlobalSection
+EndGlobal
